@@ -59,6 +59,4 @@ I enjoy turning raw data into meaningful insights 📊✨
 
 
 
-![Skills](https://skillicons.dev/icons?i=python,mysql,git,github,vscode)
 
-If you want, send me your GitHub username and I’ll customize it perfectly for your exact profile 👍
