@@ -2,8 +2,11 @@
 
 Hi, I'm Sakshi Shimpi 👋
 
+
 🎓 Electronics & Telecommunication Engineering Student
+
 📊 Aspiring Data Analyst
+
 📍 India
 
 🚀 About Me
@@ -47,6 +50,7 @@ Basics of Machine Learning
 📫 Connect With Me
 💼 LinkedIn: (Add your link)
 💻 GitHub: (Add your link)
+
 ⭐ Fun Fact
 
 I enjoy turning raw data into meaningful insights 📊✨
