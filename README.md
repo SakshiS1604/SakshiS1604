@@ -34,7 +34,9 @@ VS Code 💻
 Excel
 Power BI
 Jupyter Notebook
+
 📊 Projects
+
 🔹 Blinkit Sales Dashboard
 Built an interactive dashboard using Power BI
 Analyzed sales trends, outlet performance, and customer behavior
