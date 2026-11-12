@@ -48,8 +48,8 @@ Python for Data Analysis
 Data Visualization Best Practices
 Basics of Machine Learning
 📫 Connect With Me
-💼 LinkedIn: (Add your link)
-💻 GitHub: (Add your link)
+💼 LinkedIn: https://www.linkedin.com/in/sakshi-shimpi-data-analyst/
+💻 GitHub: https://github.com/SakshiS1604/SakshiS1604
 
 ⭐ Fun Fact
 
