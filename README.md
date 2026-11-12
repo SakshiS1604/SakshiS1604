@@ -39,16 +39,21 @@ Jupyter Notebook
 Built an interactive dashboard using Power BI
 Analyzed sales trends, outlet performance, and customer behavior
 Created KPIs for better decision-making
+
 🔹 Fake Review Analysis
 Identified fake vs real reviews
 Created KPI like Fake Review Percentage
 Used SQL & Power BI for insights
+
 📈 Currently Learning
 Python for Data Analysis
 Data Visualization Best Practices
 Basics of Machine Learning
+
 📫 Connect With Me
+
 💼 LinkedIn: https://www.linkedin.com/in/sakshi-shimpi-data-analyst/
+
 💻 GitHub: https://github.com/SakshiS1604/SakshiS1604
 
 ⭐ Fun Fact
